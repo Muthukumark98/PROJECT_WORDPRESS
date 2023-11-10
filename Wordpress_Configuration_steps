@@ -1,0 +1,5 @@
+##Wordpress_Configuration:
+##Steps1:
+##Install Apache:
+sudo apt update -y
+sudo apt install apache2 apache2-utils -y
